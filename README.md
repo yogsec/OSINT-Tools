@@ -56,7 +56,7 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 
 ### ✍️ Documentation / Evidence Capture
 
-### Training 
+### 🎓 Training 
 
 ---
 
@@ -284,3 +284,134 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 - **MEmu Play** - [Website](https://www.memuplay.com/)
 
 ---
+
+# Terrorism Investigation Tools ⚠️🕵️‍♂️🌍
+
+
+### 🛠️ Tools List
+- **TRAC (Terrorism Research & Analysis Consortium)** - [Website](https://www.trackingterrorism.org/)
+- **START (National Consortium for the Study of Terrorism and Responses to Terrorism)** - [Website](https://start.umd.edu/)
+- **Global Terrorism Database (GTD)** - [Website](https://www.start.umd.edu/gtd/)
+- **Jane's Terrorism and Insurgency Centre** - [Website](https://www.janes.com/)
+- **IntelCenter Database** - [Website](https://intelcenter.com/)
+
+---
+
+# Dark Web Investigation Tools 🕶️🌑💻
+
+
+### 🛠️ Tools List
+- **Ahmia** - [Website](https://ahmia.fi/)
+- **Dark.fail** - [Website](https://dark.fail/)
+- **OnionLand Search** - [Website](https://onionlandsearchengine.com/)
+- **Tor Project** - [Website](https://www.torproject.org/)
+- **Hunchly** - [Website](https://www.hunch.ly/)
+
+---
+
+# Digital Currency Investigation Tools 💰🕵️‍♂️📊
+
+
+### 🛠️ Tools List
+- **Blockchain.com Explorer** - [Website](https://www.blockchain.com/explorer)
+- **Chainalysis** - [Website](https://www.chainalysis.com/)
+- **Elliptic** - [Website](https://www.elliptic.co/)
+- **CipherTrace** - [Website](https://ciphertrace.com/)
+- **BTCScan** - [Website](https://btcscan.org/)
+
+---
+
+# Encoding / Decoding Tools 🔡🔍📟
+
+
+### 🛠️ Tools List
+- **CyberChef** - [Website](https://gchq.github.io/CyberChef/)
+- **Base64 Decode** - [Website](https://www.base64decode.org/)
+- **URL Decoder** - [Website](https://www.urldecoder.org/)
+- **Encode/Decode** - [Website](https://emn178.github.io/online-tools/)
+- **Ascii Converter** - [Website](https://www.asciitohex.com/)
+
+---
+
+# AI Tools 🤖🧠🔍
+
+
+### 🛠️ Tools List
+- **Maltego** - [Website](https://www.maltego.com/)
+- **Hunchly** - [Website](https://www.hunch.ly/)
+- **Cortical.io** - [Website](https://www.cortical.io/)
+- **Social Links** - [Website](https://sociallinks.io/)
+- **Skopenow** - [Website](https://www.skopenow.com/)
+
+---
+
+# Malicious File Analysis Tools 🕵️‍♂️💻🐾
+
+
+### 🛠️ Tools List
+- **VirusTotal** - [Website](https://www.virustotal.com/)
+- **Hybrid Analysis** - [Website](https://www.hybrid-analysis.com/)
+- **Cuckoo Sandbox** - [Website](https://cuckoosandbox.org/)
+- **Joe Sandbox** - [Website](https://www.joesecurity.org/)
+- **Intezer Analyze** - [Website](https://analyze.intezer.com/)
+
+---
+
+# Exploits & Advisories Tools 🚨🛡️📋
+
+
+### 🛠️ Tools List
+- **Exploit Database** - [Website](https://www.exploit-db.com/)
+- **CVE Details** - [Website](https://www.cvedetails.com/)
+- **Rapid7** - [Website](https://www.rapid7.com/db/)
+- **Packet Storm Security** - [Website](https://packetstormsecurity.com/)
+- **0day.today** - [Website](https://0day.today/)
+
+---
+
+# Threat Intelligence Tools 🔍🛡️🌍
+
+
+### 🛠️ Tools List
+- **MISP** - [Website](https://www.misp-project.org/)
+- **AlienVault OTX** - [Website](https://otx.alienvault.com/)
+- **ThreatConnect** - [Website](https://www.threatconnect.com/)
+- **Recorded Future** - [Website](https://www.recordedfuture.com/)
+- **IBM X-Force Exchange** - [Website](https://exchange.xforce.ibmcloud.com/)
+
+---
+
+# OpSec (Operational Security) Tools 🕶️🔐🛡️
+
+
+### 🛠️ Tools List
+- **Tails OS** - [Website](https://tails.boum.org/)
+- **Whonix** - [Website](https://www.whonix.org/)
+- **Qubes OS** - [Website](https://www.qubes-os.org/)
+- **Veracrypt** - [Website](https://www.veracrypt.fr/)
+- **GPG (GNU Privacy Guard)** - [Website](https://gnupg.org/)
+
+---
+
+# Documentation / Evidence Capture Tools 📝📸🔎
+
+
+### 🛠️ Tools List
+- **Hunchly** - [Website](https://www.hunch.ly/)
+- **Snagit** - [Website](https://www.techsmith.com/screen-capture.html)
+- **Monosnap** - [Website](https://monosnap.com/)
+- **ShareX** - [Website](https://getsharex.com/)
+- **Screenpresso** - [Website](https://www.screenpresso.com/)
+
+# Training Tools 🎓📚💻
+
+
+### 🛠️ Tools List
+- **TryHackMe** - [Website](https://tryhackme.com/)
+- **Hack The Box** - [Website](https://www.hackthebox.com/)
+- **PentesterLab** - [Website](https://pentesterlab.com/)
+- **OverTheWire** - [Website](https://overthewire.org/)
+- **Root Me** - [Website](https://www.root-me.org/)
+
+
+
