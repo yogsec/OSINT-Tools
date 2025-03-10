@@ -1,4 +1,4 @@
-# OSINT Framework 💡
+# OSINT Tools 💡
 
 The **OSINT Framework** is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively. 
 
@@ -59,4 +59,21 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 ### Training 
 
 ---
+
+# Username Investigation Tools 🔎
+
+Here is a curated list of powerful tools for **Username Investigation** in OSINT with relevant links:
+
+### 🛠️ Tools List
+- **WhatsMyName** - [GitHub](https://github.com/WebBreacher/WhatsMyName)
+- **Namechk** - [Website](https://namechk.com/)
+- **Sherlock** - [GitHub](https://github.com/sherlock-project/sherlock)
+- **KnowEm** - [Website](https://knowem.com/)
+- **UserRecon** - [GitHub](https://github.com/thelinuxchoice/userrecon)
+- **CheckUsernames** - [Website](https://checkusernames.com/)
+- **Social Analyzer** - [GitHub](https://github.com/qeeqbox/social-analyzer)
+- **Maigret** - [GitHub](https://github.com/soxoj/maigret)
+
+---
+
 
