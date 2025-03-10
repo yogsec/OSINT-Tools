@@ -62,7 +62,6 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 
 # Username Investigation Tools 🔎
 
-Here is a curated list of powerful tools for **Username Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **WhatsMyName** - [GitHub](https://github.com/WebBreacher/WhatsMyName)
@@ -78,7 +77,6 @@ Here is a curated list of powerful tools for **Username Investigation** in OSINT
 
 # Email Investigation Tools 📧
 
-Here is a curated list of powerful tools for **Email Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Hunter.io** - [Website](https://hunter.io/)
@@ -94,7 +92,6 @@ Here is a curated list of powerful tools for **Email Investigation** in OSINT wi
 
 # Domain Name Investigation Tools 🌐
 
-Here is a curated list of powerful tools for **Domain Name Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **WhoisXML API** - [Website](https://whoisxmlapi.com/)
@@ -110,7 +107,6 @@ Here is a curated list of powerful tools for **Domain Name Investigation** in OS
 
 # IP & MAC Address Investigation Tools 📍
 
-Here is a curated list of powerful tools for **IP & MAC Address Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Shodan** - [Website](https://www.shodan.io/)
@@ -126,7 +122,6 @@ Here is a curated list of powerful tools for **IP & MAC Address Investigation** 
 
 # Images / Videos / Docs Investigation Tools 🖼️🎥📄
 
-Here is a curated list of powerful tools for **Images / Videos / Docs Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Google Reverse Image Search** - [Website](https://images.google.com/)
@@ -142,7 +137,6 @@ Here is a curated list of powerful tools for **Images / Videos / Docs Investigat
 
 # Social Networks Investigation Tools 📱🌐
 
-Here is a curated list of powerful tools for **Social Networks Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Sherlock** - [GitHub](https://github.com/sherlock-project/sherlock)
@@ -158,7 +152,6 @@ Here is a curated list of powerful tools for **Social Networks Investigation** i
 
 # Instant Messaging Investigation Tools 💬📲
 
-Here is a curated list of powerful tools for **Instant Messaging Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **WhatsMyName** - [GitHub](https://github.com/WebBreacher/WhatsMyName)
@@ -174,7 +167,6 @@ Here is a curated list of powerful tools for **Instant Messaging Investigation**
 
 # People Search Engines Investigation Tools 🔍👤
 
-Here is a curated list of powerful tools for **People Search Engines Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Pipl** - [Website](https://pipl.com/)
@@ -190,7 +182,6 @@ Here is a curated list of powerful tools for **People Search Engines Investigati
 
 # Dating Investigation Tools ❤️🔍
 
-Here is a curated list of powerful tools for **Dating Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Tinderlyzer** - [GitHub](https://github.com/travistynes/tinderlyzer)
@@ -204,7 +195,6 @@ Here is a curated list of powerful tools for **Dating Investigation** in OSINT w
 
 # Telephone Numbers Investigation Tools ☎️🔎
 
-Here is a curated list of powerful tools for **Telephone Numbers Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Truecaller** - [Website](https://www.truecaller.com/)
@@ -219,7 +209,6 @@ Here is a curated list of powerful tools for **Telephone Numbers Investigation**
 
 # Public Records Investigation Tools 🗂️🔍
 
-Here is a curated list of powerful tools for **Public Records Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **SearchSystems** - [Website](https://publicrecords.searchsystems.net/)
@@ -234,7 +223,6 @@ Here is a curated list of powerful tools for **Public Records Investigation** in
 
 # Business Records Investigation Tools 🏢🔍
 
-Here is a curated list of powerful tools for **Business Records Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **OpenCorporates** - [Website](https://opencorporates.com/)
@@ -249,7 +237,6 @@ Here is a curated list of powerful tools for **Business Records Investigation** 
 
 # Transportation Investigation Tools 🚗🚌✈️
 
-Here is a curated list of powerful tools for **Transportation Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **FlightAware** - [Website](https://www.flightaware.com/)
@@ -263,7 +250,6 @@ Here is a curated list of powerful tools for **Transportation Investigation** in
 
 # Geolocation Tools / Maps Investigation Tools 🌍🗺️📍
 
-Here is a curated list of powerful tools for **Geolocation Tools / Maps Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **Google Maps** - [Website](https://maps.google.com/)
@@ -277,7 +263,6 @@ Here is a curated list of powerful tools for **Geolocation Tools / Maps Investig
 
 # Metadata Investigation Tools 🗂️🔎📄
 
-Here is a curated list of powerful tools for **Metadata Investigation** in OSINT with relevant links:
 
 ### 🛠️ Tools List
 - **ExifTool** - [Website](https://exiftool.org/)
@@ -286,3 +271,16 @@ Here is a curated list of powerful tools for **Metadata Investigation** in OSINT
 - **exif.regex.info** - [Website](https://exif.regex.info/)
 - **Jeffrey's Image Metadata Viewer** - [Website](http://exif.regex.info/exif.cgi)
 
+---
+
+# Mobile Emulation Tools 📱🖥️🔍
+
+
+### 🛠️ Tools List
+- **Genymotion** - [Website](https://www.genymotion.com/)
+- **Android Studio Emulator** - [Website](https://developer.android.com/studio/run/emulator)
+- **NoxPlayer** - [Website](https://www.bignox.com/)
+- **BlueStacks** - [Website](https://www.bluestacks.com/)
+- **MEmu Play** - [Website](https://www.memuplay.com/)
+
+---
