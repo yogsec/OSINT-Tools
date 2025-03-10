@@ -1,5 +1,7 @@
 # OSINT Tools 💡
 
+![OSINT Tools List](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM1cHFtYjNoM3gybmpwb2drZTBwaWZ6cXRqenIza3FycnJlOXh1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pzLJifxEvLpe/giphy.gif)
+
 The **OSINT Framework** is a powerful collection of tools and methods designed for open-source intelligence gathering. This framework covers a wide range of categories to help security researchers, investigators, and analysts uncover crucial information effectively. 
 
 ## Categories 
