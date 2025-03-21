@@ -380,6 +380,7 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 - **ThreatConnect** - [Website](https://www.threatconnect.com/)
 - **Recorded Future** - [Website](https://www.recordedfuture.com/)
 - **IBM X-Force Exchange** - [Website](https://exchange.xforce.ibmcloud.com/)
+- **Hudson Rock Cybercrime Intelligence Toolset** - [Website](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 ---
 
