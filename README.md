@@ -433,7 +433,10 @@ Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any
 
 ## ☕ Buy Me a Coffee
 
-If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
-
 ☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
 
+---
+
+📢 **Stay Updated!** Join my Telegram channel for the latest cybersecurity insights, tools, and bug bounty discussions!  
+
+🔗 [https://t.me/HackerSecure](https://t.me/HackerSecure) 🚀👨‍💻  
