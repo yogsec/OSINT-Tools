@@ -80,6 +80,7 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 
 ### 🛠️ Tools List
 - **WhatsMyName** - [GitHub](https://github.com/WebBreacher/WhatsMyName)
+- **Consensus OSINT** - [GitHub](https://github.com/OSINT-Experts-Society/Consensus-OSINT)
 - **Namechk** - [Website](https://namechk.com/)
 - **Sherlock** - [GitHub](https://github.com/sherlock-project/sherlock)
 - **KnowEm** - [Website](https://knowem.com/)
