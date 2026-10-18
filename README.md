@@ -158,10 +158,10 @@ The **OSINT Framework** is a powerful collection of tools and methods designed f
 - **Sherlock** - [GitHub](https://github.com/sherlock-project/sherlock)
 - **Namechk** - [Website](https://namechk.com/)
 - **SocialSearcher** - [Website](https://www.social-searcher.com/)
-- **Spoonbill** - [Website](https://spoonbill.io/)
 - **Pipl** - [Website](https://pipl.com/)
 - **Twitonomy** - [Website](https://www.twitonomy.com/)
 - **twtData** - [Website](https://twtdata.com/)
+- **IGDataHub** - [Website](https://igdatahub.com/)
 - **PeopleLooker** - [Website](https://www.peoplelooker.com/)
 
 ---
