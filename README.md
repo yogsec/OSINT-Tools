@@ -441,6 +441,7 @@
 
 ## Domain Name
 
+- 🌐 **[Profundis](https://profundis.io/)** - Find subdomains from indexed DNS observations and connect websites through shared IPs, TLS certificates, WHOIS records and tracking IDs. Free web plan available.
 - 🕵️ **[Domainia](https://pypi.org/project/domainia/)** - Automated OSINT scanner that enumerates subdomains, all DNS records, IP addresses, related domains/subdomains, certificate details, site info, HTTP status, name servers, and domain WHOIS for a single domain or a list, using both passive and active reconnaissance techniques. Outputs structured CSV or JSON for downstream analysis.
 - 🔎 **[recon-tool](https://pypi.org/project/recon-tool/)** - Passive domain intelligence CLI and MCP server that queries DNS records, Microsoft/Google identity endpoints, and certificate transparency logs to build a picture of an organization's technology stack—no credentials, no API keys, no active scanning. Identifies email providers (Microsoft 365, Google Workspace, Proofpoint), identity providers (Okta), cloud/CDN (Cloudflare, AWS Route 53), and high-signal related domains. Also runs as an MCP server for AI agents.
 - 🌐 **[Sublist3r](https://manpages.debian.org/unstable/sublist3r/sublist3r.1.en.html)** - Classic Python subdomain enumeration tool that aggregates results from search engines (Google, Yahoo, Bing, Baidu, Ask) and passive sources (Netcraft, Virustotal, ThreatCrowd, DNSdumpster, ReverseDNS). Includes the Subbrute bruteforce module for wordlist-based discovery. Supports port scanning of found subdomains and output to text file.
