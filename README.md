@@ -183,6 +183,7 @@
 - 📄 **[UK FCA National Storage Mechanism](https://data.fca.org.uk/#/nsm/nationalstoragemechanism)** - The UK Financial Conduct Authority's document repository, providing access to regulated announcements and documents submitted by listed issuers, including annual reports.
 - 🇳🇿 **[NZX Company Research Centre](https://new.nzx.com/)** - New Zealand Exchange's company research platform, offering annual reports of listed companies dating back to 1983, director searches, shareholder information, and financial data, with a one-week trial available.
 - 🇩🇪 **[firmendata](https://firmendata.com/)** - Provides data on 2.4 million German companies, sourced from Unternehmensregister and Handelsregister, including registry profiles, parsed annual financial statements, shareholder lists, UBO chains, and insolvency notices. Offers a Python client and free tier (100 credits).
+- 📊 **[AlphaOSINT Crunchbase Company API](https://alphaosint.com/sources/crunchbase-company-api/)** - Unofficial API for Crunchbase company profiles: funding rounds, investors, headcount range, founders and key people, returned as JSON. Paid per lookup; also available as a remote MCP tool.
 
 ---
 
