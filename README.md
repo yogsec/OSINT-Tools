@@ -90,6 +90,7 @@
 
 ## People Search Engines
 
+- 🌐 **[DeepSearch](https://deepsearch.tools/)** - Name-based people search with free candidate-list previews; full reports are paid. Verify possible matches with original sources.
 - 🕵️ **[Spokeo](https://www.spokeo.com/)** - A people search engine that aggregates public records, phone data, and social profiles into a single lookup, allowing searches by name, email, phone number, or address.
 - 🔎 **[IDCrawl](https://www.idcrawl.com/)** - Free people, username, reverse phone, and reverse email search tool that aggregates social media profiles, public records, and web references across multiple sources; ideal for early-stage digital footprint discovery.
 - 🌐 **[Fast People Search](https://www.fastpeoplesearch.com/)** - US-focused people search database providing addresses, employment history, property records, and more for individuals.
