@@ -628,6 +628,8 @@
 - 🔍 **[ContentLens C2PA Validator](https://chromewebstore.google.com/detail/contentlens-c2pa-validato/gdejpnjeepoffhkbcgnjdbkgpohdhmln)** - Chrome extension for inspecting C2PA Content Credentials on images and videos encountered during browsing. Right-click any image to verify manifests, trace original watermarked content from manipulated versions, and view ownership, creation process, and usage rights. Currently verifies video audio components only; full video verification is planned.
 - 📸 **[Is It AI](https://isitai.com/)** - Online AI image detector useful as a supplementary check. As noted in the Metadata section, absence of camera settings (focal length, aperture, ISO) in EXIF is often more revealing than the detector itself, and some generators embed their own metadata signatures.
 
+- 📸 **[AI Image Detection](https://aiimagedetection.app/)** - Online AI image checker that reads **C2PA/Content Credentials** and metadata first, and only runs a detection model when those can't settle it. Answers Likely AI, Likely real, Can't tell or Edited with AI, with a likelihood range and the reasons. Upload, paste or link an image; 3 free checks a day with no account, plus a private mode that doesn't keep the image.
+
 ---
 
 
