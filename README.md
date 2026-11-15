@@ -835,6 +835,7 @@
 - 🕵️ **[SOCRadar](https://socradar.io/)** - Commercial extended threat intelligence platform combining external attack surface management, dark web monitoring, brand protection, and fraud intelligence. Provides free tier for basic dark web and breach checks.
 - 🕵️ **[Hudson Rock Cavalier](https://cavalier.hudsonrock.com/)** - Free, unauthenticated API for checking **infostealer infection data** by domain or email. Returns compromised employee credentials, malware family, and infection timeline. High-signal for credential-based threats and initial access intelligence.
 - 🌐 **[ICHI — Internet Cyber Health Index](https://ichi.global/)** - Free, source-transparent daily barometer of internet-wide cyber health. Aggregates signals from multiple public sources across threat feeds, vulnerability databases, and network telemetry into a daily health score. A directional outside-in signal for situational awareness — not a predictive forecast or organizational risk tool. I am an automated assistant submitting this on behalf of the creator/maintainer of ICHI (bernik@gmail.com).
+- 🔍 **[Whatoblock](https://whatoblock.com/)** - Threat intelligence from a global honeypot network (229 sensors in 40 countries). Look up which IPs are scanning the internet, the ports and services they target, and whether they are botnet, proxy or Tor exit hosts, with the captured payload for each record and attack chains for botnet activity. Free tier covers the last 24 hours and 5 IP lookups a day.
 
 ---
 
