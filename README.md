@@ -57,6 +57,7 @@
 
 ## Username Investigation
 
+- 🔎 **[1Lookup](https://www.1lookup.io/tools/reverse-phone-lookup)** - Free reverse phone and reverse email lookups, plus a number's carrier, line type and HLR status.
 - 🕵️ **[Maigret](https://github.com/soxoj/maigret)** - Builds a detailed dossier on a person by username from 3000+ sites, extracting profile details and relations. Supports recursive search, tag filtering, and censorship detection. Installable via `pip install maigret`.
 - 🔎 **[Sherlock](https://github.com/sherlock-project/sherlock)** - The original and widely-used username hunting tool, supporting hundreds of social networks and websites. Batch search, Tor/proxy support, and CSV/XLSX/JSON export. Installable via `pipx install sherlock-project`.
 - 🌐 **[WhatsMyName](https://whatsmyname.app/)** - Community-maintained dataset and web app covering 700+ websites for username lookup. Free web version requires no installation and is the data source for many OSINT tools.
