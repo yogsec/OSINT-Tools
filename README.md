@@ -667,8 +667,8 @@
 - 🕵️ **[Open Measures](https://bellingcat.gitbook.io/toolkit/categories/social-media/other-platforms)** - Bellingcat-listed platform for investigating harmful online activity including extremism and disinformation across alternative and mainstream social networks. Partially free.
 - 🔎 **[SMAT](https://scm.bz/wp-content/uploads/2025/04/Open-Source-Intelligence-Initiating-Efficient-Investigations-Appendices-EN-10.pdf)** - Disinformation tracker pulling data from Gab, Parler, 4chan, 8kun, .win, Poal, Telegram, Gettr, Bitchute, and TikTok. Useful for monitoring alternative platforms where mainstream tools have limited coverage.
 - 🕵️ **[snscrape](https://scm.bz/wp-content/uploads/2025/04/Open-Source-Intelligence-Initiating-Efficient-Investigations-Appendices-EN-10.pdf)** - Command-line tool for scraping multiple social media platforms without using official APIs, particularly effective for Twitter and Telegram. Bypasses API rate limits and access restrictions.
-- 🌐 **[Skopenow](https://scm.bz/wp-content/uploads/2025/04/Open-Source-Intelligence-Initiating-Efficient-Investigations-Appendices-EN-10.pdf)** - Commercial social media investigation platform 
-- 🔎 **[Social Fetch](https://www.socialfetch.dev)** - API and MCP server that returns public social media posts, profiles, comments and transcripts as JSON.supporting name, phone, email, and username searches across platforms. Aggregates and correlates identities for professional investigations.
+- 🌐 **[Skopenow](https://scm.bz/wp-content/uploads/2025/04/Open-Source-Intelligence-Initiating-Efficient-Investigations-Appendices-EN-10.pdf)** - Commercial social media investigation platform supporting name, phone, email, and username searches across platforms. Aggregates and correlates identities for professional investigations.
+- 🔎 **[Social Fetch](https://www.socialfetch.dev)** - API and MCP server that returns public social media posts, profiles, comments and transcripts as JSON.
 
 ---
 
