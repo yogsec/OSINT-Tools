@@ -614,6 +614,7 @@
 - 🔐 **[C2PA / Content Credentials](https://c2pa.org/)** - Cross-vendor standard for cryptographically signed provenance metadata embedded in images, video, audio, and PDFs. ExifTool can read (but not write) C2PA/JUMBF manifests. Adoption includes Adobe (Photoshop, Firefly), OpenAI (DALL·E 3, ChatGPT), Google (SynthID watermarking), and in-camera support from Leica, Sony, and Nikon. When present, C2PA provides stronger evidence of origin than EXIF alone because the manifest is cryptographically signed.
 
 ---
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 
 
 ## Deepfake & Synthetic Media
