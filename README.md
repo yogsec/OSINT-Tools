@@ -564,6 +564,7 @@
 - 🧭 **[crt.name](https://crt.name/)** - CT log search interface offering an alternative view of certificate transparency data.
 - 🏛️ **[ARIN Whois/RDAP](https://www.arin.net/)** - Regional Internet Registry for North America. Retrieves IP allocation, organization, and point-of-contact data. One of the five RIR sources that pius aggregates; essential for mapping IP ranges to organizations.
 - 🛠️ **[dig](https://manpages.debian.org/)/[nslookup](https://manpages.debian.org/)** - Foundational DNS query utilities. `dig` is preferred for detailed record queries (`dig A example.com +short`, `dig MX example.com`, `dig NS example.com`). No installation required on most Unix systems; the baseline for validating what CT and passive DNS tools report.
+- 🔍 **[InboxShield](https://inbox-checker.appwrite.network)** - Free passive email DNS and mail-infrastructure analyzer requiring no signup. Recursively expands SPF `include:` chains against the RFC 7208 10-lookup ceiling, probes 24 common DKIM selectors, inspects DMARC, MTA-STS, TLS-RPT, DANE, BIMI, and checks 5 live DNSBL blocklists from the browser or via `curl`.
 
 ---
 
