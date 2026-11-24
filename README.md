@@ -154,6 +154,7 @@
 - 🏛️ **[SCRA (Servicemembers Civil Relief Act)](https://scra.dmdc.osd.mil/scra/#/home)** - US Department of Defense database for verifying active-duty military status, useful in legal and financial investigations.
 - 📂 **[Public Records Online Searches](https://publicrecords.onlinesearches.com/)** - Directory of free and paid public records databases organized by category and jurisdiction.
 - 🔍 **[Investigative Dashboard (OCCRP)](https://id.occrp.org/)** - OCCRP's research platform providing tools and databases for investigating organized crime and corruption, including company records and asset searches.
+- 🏛️ **[Legistar Council Meetings (Apify)](https://apify.com/publicrecords/legistar-meetings-scraper)** - Returns city council meetings, agenda items, votes and attached documents for any city that publishes on Legistar, each with a link back to the official record. Useful for tracking what a local government decided and who voted for it.
 
 ---
 
@@ -184,6 +185,7 @@
 - 📄 **[UK FCA National Storage Mechanism](https://data.fca.org.uk/#/nsm/nationalstoragemechanism)** - The UK Financial Conduct Authority's document repository, providing access to regulated announcements and documents submitted by listed issuers, including annual reports.
 - 🇳🇿 **[NZX Company Research Centre](https://new.nzx.com/)** - New Zealand Exchange's company research platform, offering annual reports of listed companies dating back to 1983, director searches, shareholder information, and financial data, with a one-week trial available.
 - 🇩🇪 **[firmendata](https://firmendata.com/)** - Provides data on 2.4 million German companies, sourced from Unternehmensregister and Handelsregister, including registry profiles, parsed annual financial statements, shareholder lists, UBO chains, and insolvency notices. Offers a Python client and free tier (100 credits).
+- 🇺🇸 **[USAspending Awards (Apify)](https://apify.com/publicrecords/usaspending-awards-scraper)** - Pulls US federal contract and grant awards from USAspending.gov by agency, recipient, NAICS code and period, with award IDs and source links. Shows which government money a company has received.
 
 ---
 
@@ -613,6 +615,7 @@
 - 🔐 **[C2PA / Content Credentials](https://c2pa.org/)** - Cross-vendor standard for cryptographically signed provenance metadata embedded in images, video, audio, and PDFs. ExifTool can read (but not write) C2PA/JUMBF manifests. Adoption includes Adobe (Photoshop, Firefly), OpenAI (DALL·E 3, ChatGPT), Google (SynthID watermarking), and in-camera support from Leica, Sony, and Nikon. When present, C2PA provides stronger evidence of origin than EXIF alone because the manifest is cryptographically signed.
 
 ---
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 
 
 ## Deepfake & Synthetic Media
