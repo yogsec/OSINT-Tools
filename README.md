@@ -129,6 +129,7 @@
 
 ## Public Records
 
+- 🗺️ **[H1DR4 Incident Map](https://h1dr4.dev/map)** - Free browser map for exploring publicly reported incidents by area, including Police.uk records at anonymised, approximate locations. Coverage varies by police force.
 - 🗂️ **[Search Systems](https://www.searchsystems.net/)** - A directory of thousands of official public records databases worldwide, covering US states, counties, and international jurisdictions. Browse by country, state, or record type (court, property, business, licensing, inmate) and follow links directly to originating government sources. Does not host data itself, acting purely as a discovery index.
 - 🌍 **[OSINT Tools Map](https://cybdetective.com/osintmap/)** - Interactive map by Cyber Detective listing country-specific OSINT resources including business registries, cadastral maps, court databases, vehicle databases, and phone directories. Navigate by country to locate national or regional public record sources. Especially useful for international investigations where local repositories are unfamiliar.
 - ⚖️ **[CourtListener](https://www.courtlistener.com/)** - Free federal and state court records search via the v4 REST API. Covers US federal court opinions, dockets, and related filings without requiring authentication.
